@@ -1,4 +1,7 @@
-👋 Hi, I’m @Eng-OsamaMansour
-👀 I’m interested in Software 
-🌱 I’m currently learning Computer Engineer 
-💞️ I’m looking to collaborate on Build useful softwar
+# Hi there 👋 I'm Osama Mansour
+
+🎓 **Computer Engineer** (graduating May 2025) from An-Najah National University  
+💻 Focused on **AI, Robotics, Cybersecurity**, and full-stack development  
+🔐 Passionate about building real-world systems that are smart, secure, and scalable  
+🤖 Developer of **RoboMealMate** – a humanoid AI-powered restaurant service robot  
+🏥 Creator of **PalClinic** – a full-stack healthcare management system for the Palestinian context
